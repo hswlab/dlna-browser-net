@@ -12,3 +12,7 @@ The DLNA Media Browser is a file explorer for files hosted via a dlna/upnp servi
 
 
 ![preview](https://github.com/hswlab/dlna-browser-net/raw/main/preview.png)
+
+# Used Libraries
+- https://github.com/videolan/libvlcsharp
+- https://github.com/ElectronNET/Electron.NET
